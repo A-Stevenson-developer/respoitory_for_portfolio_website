@@ -1,0 +1,25 @@
+h1 {
+    background-color: green;
+    font-size: 24px;
+    color: yellow;
+}
+
+body {
+    background-color: blue;
+    font-size: 20px;
+}
+
+footer {
+    background-color: white;
+    color: black;
+}
+
+img {
+    width: 300px;
+    height: 300px;
+}
+
+.dark-theme {
+    background-color: darkblue;
+    color: white;
+}

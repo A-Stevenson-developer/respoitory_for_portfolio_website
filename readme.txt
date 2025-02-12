@@ -1,0 +1,1 @@
+This website is designed to showcase me, my skills and my projects. Feel free to look at the code and give me some pointers or advice.
