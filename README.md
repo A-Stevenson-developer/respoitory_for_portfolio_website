@@ -1,2 +1,2 @@
 # respoitory_for_portfolio_website
-Every change can be made here or on own computer
+this website is desgined to show off my skills and projecs. So dont be editing the paragraph or heading elements please.
